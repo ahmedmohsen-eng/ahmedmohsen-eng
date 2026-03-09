@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ahmed+Mohsen+%F0%9F%91%8B;Competitive+Programmer;AI+%26+Data+Science+Engineer;ICPC+Trainee+%40+UFE;Mathematical+Problem+Solver" alt="Typing SVG" />
-
-<br/>
+## Hey, I'm Ahmed Mohsen 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedmohsen--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmohsen-eng)
 [![Codeforces](https://img.shields.io/badge/Codeforces-hackgg106-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hackgg106)
@@ -20,7 +18,7 @@ class Ahmed {
     string track       = "AI & Data Science Engineering";
     string scholarship = "Schneider Electric Excellence Scholar";
     float  gpa         = 3.83f; // out of 4.00
-    
+
     vector<string> competing_in = {"Codeforces", "ICPC"};
     vector<string> interested_in = {
         "Competitive Programming",
@@ -62,46 +60,38 @@ class Ahmed {
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmedmohsen-eng&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmohsen-eng&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmohsen-eng&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmohsen-eng&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### ⚔️ Competitive Programming
+### ⚔️ Codeforces — Live Stats
 
 <div align="center">
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hackgg106&theme=github_dark&show_icons=true)](https://codeforces.com/profile/hackgg106)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hackgg106&theme=github_dark&show_icons=true&force_username=true)](https://codeforces.com/profile/hackgg106)
 
 </div>
 
-| Platform | Handle | Status |
-|----------|--------|--------|
-| 🟦 Codeforces | [hackgg106](https://codeforces.com/profile/hackgg106) | 200+ problems solved |
-| 🏛️ ICPC | UFE Team | Active trainee |
-| 📘 USACO Guide | Ongoing | Bronze → Silver path |
+> Rating, rank, and problems solved update automatically whenever I compete. No manual changes needed.
 
 ---
 
-### 🗺️ Current Roadmap
+### 🗺️ Roadmap
 
 ```
 Phase 1 (Now)      → CF 1200 | CS50P | Backend fundamentals
-Phase 2 (6–18mo)   → CF 1600 | Deep DP/Graphs/Number Theory | AtCoder DP
+Phase 2 (6–18mo)   → CF 1600 | Deep DP / Graphs / Number Theory
 Phase 3 (18–36mo)  → CF 1900 | ICPC seriously | Stats & Linear Algebra
-Phase 4 (36mo+)    → Google/Microsoft Cairo or European French Masters 🇪🇺
+Phase 4 (36mo+)    → Google / Microsoft Cairo  or  European French Masters 🇪🇺
 ```
 
 ---
 
-### 📌 Featured Projects
-
-> 🔨 *Building in public — everything starts somewhere.*
+### 📌 Projects
 
 | Project | Stack | Status |
 |---------|-------|--------|
@@ -113,8 +103,6 @@ Phase 4 (36mo+)    → Google/Microsoft Cairo or European French Masters 🇪�
 <div align="center">
 
 *"The mathematician's patterns, like the painter's or the poet's, must be beautiful."* — G.H. Hardy
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedmohsen-eng&color=58A6FF&style=flat-square&label=Profile+Views)
 
