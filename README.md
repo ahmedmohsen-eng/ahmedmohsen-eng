@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hey, I'm Ahmed Mohsen 👋</h1>
-<h3 align="center">Competitive Programmer · ICPC Trainee @ UFE · AI & Data Science Engineer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ahmed+Mohsen+%F0%9F%91%8B;Competitive+Programmer;AI+%26+Data+Science+Engineer;ICPC+Trainee+%40+UFE;Mathematical+Problem+Solver" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedmohsen--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmohsen-eng)
 [![Codeforces](https://img.shields.io/badge/Codeforces-hackgg106-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hackgg106)
