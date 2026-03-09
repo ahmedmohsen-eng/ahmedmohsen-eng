@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&text=Ahmed%20Mohsen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20ICPC%20Trainee%20%40%20UFE%20%7C%20AI%20%26%20Data%20Science%20Engineer&descAlignY=60&descSize=15&descColor=ffffff" />
+<h1 align="center">Hey, I'm Ahmed Mohsen 👋</h1>
+<h3 align="center">Competitive Programmer · ICPC Trainee @ UFE · AI & Data Science Engineer</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedmohsen--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmohsen-eng)
 [![Codeforces](https://img.shields.io/badge/Codeforces-hackgg106-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hackgg106)
