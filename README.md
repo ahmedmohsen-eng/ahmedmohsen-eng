@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ahmed+Mohsen+%F0%9F%91%8B;Competitive+Programmer;AI+%26+Data+Science+Engineer;ICPC+Trainee+%40+UFE;Mathematical+Problem+Solver" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&text=Ahmed%20Mohsen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20ICPC%20Trainee%20%40%20UFE%20%7C%20AI%20%26%20Data%20Science%20Engineer&descAlignY=60&descSize=15&descColor=ffffff" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedmohsen--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmohsen-eng)
 [![Codeforces](https://img.shields.io/badge/Codeforces-hackgg106-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hackgg106)
